@@ -18,4 +18,4 @@ Ox-debate is an extremely high-quality dataset that features experts and highly 
 1. Understanding linguistic jargon.
 2. Analysing tone and signature habits, as well as the progression of language over decades.
 
-**In the coming weeks, we'll release more in-depth datasets on exotic topics of high-quality.** 
+**In the coming weeks, we'll release more in-depth datasets on exotic topics with high-quality.** 
